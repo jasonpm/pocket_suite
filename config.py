@@ -24,7 +24,7 @@ CONSUMER_KEY = '[YOUR-CONSUMER-KEY]'
 # ===============================================
 # PURPOSE:        Specifies user's access token
 # VALID VALUES:   Pocket access token provided from authentication process
-ACCESS_TOKEN = 'YOUR-ACCESS-TOKEN'
+ACCESS_TOKEN = '[YOUR-ACCESS-TOKEN]'
 
 ###### OPTIONAL PARAMETERS #####
 ################################
